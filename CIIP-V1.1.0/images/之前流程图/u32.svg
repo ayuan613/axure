@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="78px" height="103px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="608" y1="3525" x2="608" y2="3628" id="LinearGradient433">
+      <stop id="Stop434" stop-color="#ffffff" offset="0" />
+      <stop id="Stop435" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop436" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop437" stop-color="#ffffff" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -569 -3525 )">
+    <path d="M 646.5 3540.6  C 646.5 3540.6  646.5 3612.4  646.5 3612.4  C 646.5 3621.024  629.14 3627.5  608 3627.5  C 586.86 3627.5  569.5 3621.024  569.5 3612.4  C 569.5 3612.4  569.5 3540.6  569.5 3540.6  C 569.5 3531.976  586.86 3525.5  608 3525.5  C 629.14 3525.5  646.5 3531.976  646.5 3540.6  Z " fill-rule="nonzero" fill="url(#LinearGradient433)" stroke="none" />
+    <path d="M 569.5 3540.94854368932  C 569.5 3532.2973592233  586.44 3525.5  608 3525.5  C 629.56 3525.5  646.5 3532.2973592233  646.5 3540.94854368932  C 646.5 3540.94854368932  646.5 3612.05145631068  646.5 3612.05145631068  C 646.5 3620.7026407767  629.56 3627.5  608 3627.5  C 586.44 3627.5  569.5 3620.7026407767  569.5 3612.05145631068  C 569.5 3612.05145631068  569.5 3540.94854368932  569.5 3540.94854368932  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 646.5 3540.6  C 646.5 3549.056  629.56 3555.7  608 3555.7  C 586.44 3555.7  569.5 3549.056  569.5 3540.6  " stroke-width="1" stroke="#797979" fill="none" />
+  </g>
+</svg>
